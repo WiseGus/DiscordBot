@@ -1,0 +1,23 @@
+﻿{
+    "token": "{your_discord_token}",
+    "prefix": ".",
+    "botName": "Larry",
+    "avatar": "Larry.png",
+    "channels": [
+        "KKYO.bottest"
+    ],
+    "botGamesList": [
+        "World of Warcraft",
+        "Warcraft 3",
+        "Starcraft",
+        "Starcraft II",
+        "Diablo",
+        "Diablo II",
+        "Diablo III",
+        "Overwatch",
+        "Hearthstone",
+        "Heroes of the Storm"
+    ],
+    "quoteList": "Plain",
+    "LogLevel": "Info"
+}
